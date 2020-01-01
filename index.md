@@ -230,4 +230,5 @@ sherry直接拒绝了我给她买早餐的做法，我也真的很傻逼，为�
 19再见，20你好。  
 
 ## 2020
-[http://sherry.cx/blog]20年得故事就写在typecho吧.  
+[20年得故事就写在typecho吧](http://sherry.cx/blog).  
+
